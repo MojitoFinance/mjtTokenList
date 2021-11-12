@@ -9,5 +9,16 @@
     "decimals": 18,
     "status": "active",
     "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521"
+  },
+  {
+    "name": "TIKU Token",
+    "website": "https://tikutoken.com",
+    "description": "TIKU is a native token of TIKU DeFi",
+    "explorer": "https://explorer.kcc.io/en/token/0xd4b52510719c594514ce7fed6cc876c03278ccf8",
+    "type": "KRC20",
+    "symbol": "TIKU",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xd4b52510719c594514ce7fed6cc876c03278ccf8"
   }
 ]
