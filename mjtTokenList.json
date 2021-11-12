@@ -20,5 +20,16 @@
     "decimals": 18,
     "status": "active",
     "address": "0xd4b52510719c594514ce7fed6cc876c03278ccf8"
+  },
+  {
+    "name": "KuDoge",
+    "website": "https://KuDoge.io",
+    "description": "KuDoge is a Meme Token on KCC",
+    "explorer": "https://explorer.kcc.io/en/token/0x6665d66afa48f527d86623723342cfa258cb8666",
+    "type": "KRC20",
+    "symbol": "KuDo",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x6665d66afa48f527d86623723342cfa258cb8666"
   }
 ]
