@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KCS Token",
+    "website": "https://kucoin.com",
+    "description": "KCS is a native token of KuCoin",
+    "explorer": "https://explorer.kcc.io/token/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+    "type": "KRC20",
+    "symbol": "KCS",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521"
+  }
+]
