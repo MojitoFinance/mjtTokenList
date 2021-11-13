@@ -20,5 +20,16 @@
     "decimals": 18,
     "status": "active",
     "address": "0xd4b52510719c594514ce7fed6cc876c03278ccf8"
+  },
+  {
+    "name": "Kucino Casino",
+    "website": "https://kcc.guru",
+    "description": " Kucino is the first Casino on the Kucoin Community Chain, powered by The GURU Network.",
+    "explorer": "https://explorer.kcc.io/en/token/0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7",
+    "type": "KRC20",
+    "symbol": "KUCINO",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4c9fa6297D3413FbbE7bA935e14022d0e5a39DC7"
   }
 ]
