@@ -1,0 +1,23 @@
+{
+  "name": "mjttokenlist",
+  "version": "1.0.0",
+  "description": "=> details：[https://docs.mojitoswap.finance/q-and-a/make-your-own-drinks-on-mojitoswap](https://docs.mojitoswap.finance/q-and-a/make-your-own-drinks-on-mojitoswap)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MojitoFinance/mjtTokenList.git"
+  },
+  "keywords": [
+    "mojitoswap",
+    "tokenlist"
+  ],
+  "author": "bbelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MojitoFinance/mjtTokenList/issues"
+  },
+  "homepage": "https://github.com/MojitoFinance/mjtTokenList#readme"
+}
