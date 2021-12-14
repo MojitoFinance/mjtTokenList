@@ -42,5 +42,16 @@
     "decimals": 18,
     "status": "active",
     "address": "0x4c9fa6297d3413fbbe7ba935e14022d0e5a39dc7"
+  },
+  {
+    "name": "Spice",
+    "website": "https://saffron.finance",
+    "explorer": "https://explorer.kcc.io/token/0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00",
+    "type": "KRC20",
+    "symbol": "SFI",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00",
+    "description": "KCC-Peg 1:1 with Spice (SFI) on ETH 0xb753428af26E81097e7fD17f40c88aaA3E04902c"
   }
 ]
