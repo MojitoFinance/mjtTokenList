@@ -55,7 +55,7 @@
     "description": "KCC-Peg 1:1 with Spice (SFI) on ETH 0xb753428af26E81097e7fD17f40c88aaA3E04902c"
   },
   {
-    "name": "COOHA",
+    "name": "CoolHash",
     "website": "",
     "explorer": "https://explorer.kcc.io/token/0xd0f2e8cf77c1d3dcc4d2d03f99d959bb5ce496bf",
     "type": "KRC20",
