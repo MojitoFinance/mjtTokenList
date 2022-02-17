@@ -1,0 +1,11 @@
+{
+ "name": "CoolHash",
+ "website": "https://coolmining.io"
+ "explorer": "https://explorer.kcc.io/token/0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
+ "type": "KRC20",
+ "symbol": "CooHa",
+ "decimals": 18,
+ "status": "active",
+ "address": "0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF"
+ "description": "COOHA is the hashrate token of CoolMining",
+}
