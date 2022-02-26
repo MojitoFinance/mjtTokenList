@@ -68,12 +68,12 @@
   {
     "name": "Pencil DAO Token",
     "website": "http://pencildao.com/",
-    "explorer": "https://scan.kcc.io/address/0x44a6D299EEd7ac941f090257380eE1d1934FAdbE",
+    "explorer": "https://scan.kcc.io/address/0x44a6d299eed7ac941f090257380ee1d1934fadbe",
     "type": "KRC20",
     "symbol": "PENCIL",
     "decimals": 18,
     "status": "active",
-    "address": "0x44a6D299EEd7ac941f090257380eE1d1934FAdbE",
+    "address": "0x44a6d299eed7ac941f090257380ee1d1934fadbe",
     "description": "Pencil DAO is NFT ecosystem"
   }
 ]
