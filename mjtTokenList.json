@@ -66,6 +66,17 @@
     "description": "COOHA is the hashrate token of CoolMining"
   },
   {
+    "name": "Pencil DAO Token",
+    "website": "http://pencildao.com/",
+    "explorer": "https://scan.kcc.io/address/0x44a6D299EEd7ac941f090257380eE1d1934FAdbE",
+    "type": "KRC20",
+    "symbol": "PENCIL",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x44a6D299EEd7ac941f090257380eE1d1934FAdbE",
+    "description": "Pencil DAO is NFT ecosystem"
+  },
+  {
     "name": "APECOIN",
     "website": "",
     "explorer": "https://scan.kcc.io/address/0xdae6c2a48bfaa66b43815c5548b10800919c993e",
