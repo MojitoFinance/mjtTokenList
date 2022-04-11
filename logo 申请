@@ -1,0 +1,11 @@
+{
+"name": "IdleStone age Token",
+"website": "https://www.idlestoneage.com",
+"explorer": "https://explorer.kcc.io/token/0x8367B781316eDb622DB3847f863e610edf1f4a20",
+"type": "KRC20",
+"symbol": "SAX",
+"decimals": 18,
+"status": "active",
+"address": "0x8367B781316eDb622DB3847f863e610edf1f4a20",
+"description": "SAX is the governance token of IdleStone age",
+}
