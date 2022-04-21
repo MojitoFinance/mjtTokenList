@@ -1,0 +1,123 @@
+[
+  {
+    "name": "KCS Token",
+    "website": "https://kucoin.com",
+    "description": "KCS is a native token of KuCoin",
+    "explorer": "https://explorer.kcc.io/token/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+    "type": "KRC20",
+    "symbol": "KCS",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521"
+  },
+  {
+    "name": "TIKU Token",
+    "website": "https://tikutoken.com",
+    "description": "TIKU is a native token of TIKU DeFi",
+    "explorer": "https://explorer.kcc.io/en/token/0xd4b52510719c594514ce7fed6cc876c03278ccf8",
+    "type": "KRC20",
+    "symbol": "TIKU",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xd4b52510719c594514ce7fed6cc876c03278ccf8"
+  },
+  {
+    "name": "KuDoge",
+    "website": "https://KuDoge.io",
+    "description": "KuDoge is a Meme Token on KCC",
+    "explorer": "https://explorer.kcc.io/en/token/0x6665d66afa48f527d86623723342cfa258cb8666",
+    "type": "KRC20",
+    "symbol": "KUDO",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x6665d66afa48f527d86623723342cfa258cb8666"
+  },
+  {
+    "name": "Kucino Casino",
+    "website": "https://kcc.guru",
+    "description": " Kucino is the first Casino on the Kucoin Community Chain, powered by The GURU Network.",
+    "explorer": "https://explorer.kcc.io/en/token/0x4c9fa6297d3413fbbe7ba935e14022d0e5a39dc7",
+    "type": "KRC20",
+    "symbol": "KUCINO",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4c9fa6297d3413fbbe7ba935e14022d0e5a39dc7"
+  },
+  {
+    "name": "Spice",
+    "website": "https://saffron.finance",
+    "explorer": "https://explorer.kcc.io/token/0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00",
+    "type": "KRC20",
+    "symbol": "SFI",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xd55d9df77b23a7455613f2244ee4b6a45b6e2d00",
+    "description": "KCC-Peg 1:1 with Spice (SFI) on ETH 0xb753428af26E81097e7fD17f40c88aaA3E04902c"
+  },
+  {
+    "name": "CoolHash",
+    "website": "https://coolmining.io",
+    "explorer": "https://explorer.kcc.io/token/0xd0f2e8cf77c1d3dcc4d2d03f99d959bb5ce496bf",
+    "type": "KRC20",
+    "symbol": "COOHA",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xd0f2e8cf77c1d3dcc4d2d03f99d959bb5ce496bf",
+    "description": "COOHA is the hashrate token of CoolMining"
+  },
+  {
+    "name": "Pencil DAO Token",
+    "website": "http://pencildao.com/",
+    "explorer": "https://scan.kcc.io/address/0x44a6d299eed7ac941f090257380ee1d1934fadbe",
+    "type": "KRC20",
+    "symbol": "PENCIL",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x44a6d299eed7ac941f090257380ee1d1934fadbe",
+    "description": "Pencil DAO is NFT ecosystem"
+  },
+  {
+    "name": "APECOIN",
+    "website": "",
+    "explorer": "https://scan.kcc.io/address/0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+    "type": "KRC20",
+    "symbol": "APE",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+    "description": ""
+  },
+  {
+    "name": "BABYDOGE Token",
+    "website": "",
+    "explorer": "https://scan.kcc.io/address/0xb2c22a9fb4fc02eb9d1d337655ce079a04a526c7",
+    "type": "KRC20",
+    "symbol": "BABYDOGE",
+    "decimals": 9,
+    "status": "active",
+    "address": "0xb2c22a9fb4fc02eb9d1d337655ce079a04a526c7",
+    "description": ""
+  },
+  {
+    "name": "IdleStone age Token",
+    "website": "https://www.idlestoneage.com",
+    "explorer": "https://explorer.kcc.io/token/0x8367B781316eDb622DB3847f863e610edf1f4a20",
+    "type": "KRC20",
+    "symbol": "SAX",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x8367B781316eDb622DB3847f863e610edf1f4a20",
+    "description": "SAX is the governance token of IdleStone age"
+  },
+  {
+    "name": "Kogecoin",
+    "website": "http://kogecoin.org/",
+    "explorer": "https://explorer.kcc.io/en/token/0xf49164a14ff4bff30b340ab0f2105dde42da6f6a",
+    "type": "KRC20",
+    "symbol": "KOGE",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xf49164a14ff4bff30b340ab0f2105dde42da6f6a",
+    "description": "KOGE is THE memecoin of KuCoin Community Chain. Combining a devoted community, beautiful branding and well-crafted utility, Koge IS KCC."
+  }
+]
