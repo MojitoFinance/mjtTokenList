@@ -106,7 +106,7 @@
     "symbol": "SAX",
     "decimals": 18,
     "status": "active",
-    "address": "0x8367B781316eDb622DB3847f863e610edf1f4a20",
+    "address": "0x8367b781316edb622db3847f863e610edf1f4a20",
     "description": "SAX is the governance token of IdleStone age"
   },
   {
@@ -119,5 +119,16 @@
     "status": "active",
     "address": "0x06893639c09cb7eae1b384dc6dc2ef7fe1473f2e",
     "description": "KOGE is one of the first memecoins on KCC, KOGE aims to be the only memecoin bluechip through its utility based approach."
+  },
+  {
+    "name": "CoolGas",
+    "website": "https://coolmining.io",
+    "explorer": "https://explorer.kcc.io/token/0x23e1acd3d979025cf38c5a1b4a9df20ecaf32d5d",
+    "type": "KRC20",
+    "symbol": "CooGa",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x23e1acd3d979025cf38c5a1b4a9df20ecaf32d5d",
+    "description": "COOGA is the utility token in the GameFi ecosystem of CoolMining"
   }
 ]
