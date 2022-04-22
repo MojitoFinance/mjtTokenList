@@ -1,0 +1,11 @@
+{
+ "name": "CoolGas",
+ "website": "https://coolmining.io"
+ "explorer": "https://explorer.kcc.io/token/0x23e1aCD3D979025cf38C5A1B4A9df20ecAF32d5D",
+ "type": "KRC20",
+ "symbol": "CooGa",
+ "decimals": 18,
+ "status": "active",
+ "address": "0x23e1aCD3D979025cf38C5A1B4A9df20ecAF32d5D"
+ "description": "COOGA is the utility token in the GameFi ecosystem of CoolMining",
+}
