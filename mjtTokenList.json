@@ -130,5 +130,16 @@
     "status": "active",
     "address": "0x23e1acd3d979025cf38c5a1b4a9df20ecaf32d5d",
     "description": "COOGA is the utility token in the GameFi ecosystem of CoolMining"
+  },
+  {
+    "name": "MetaLand Shares",
+    "website": "https://www.pikaster.com/",
+    "explorer": "https://explorer.kcc.io/token/0x974E54266708292383C2989DCA5FDbb115666D4f",
+    "type": "KRC20",
+    "symbol": "MLS",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x974E54266708292383C2989DCA5FDbb115666D4f",
+    "description": "MLS is the governance token in Metaland"
   }
 ]
