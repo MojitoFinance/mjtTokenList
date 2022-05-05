@@ -141,5 +141,16 @@
     "status": "active",
     "address": "0x974E54266708292383C2989DCA5FDbb115666D4f",
     "description": "MLS is the governance token in Metaland"
+  },
+  {
+    "name": "BoringDAO",
+    "website": "https://www.boringdao.com",
+    "explorer": "https://explorer.kcc.io/token/0x5d78bf8f79a66e43f5932c1ae0b8fa6563f97f74",
+    "type": "KRC20",
+    "symbol": "BORING",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x5d78bf8f79a66e43f5932c1ae0b8fa6563f97f74",
+    "description": "Connect users with KCC through different blockchains "
   }
 ]
