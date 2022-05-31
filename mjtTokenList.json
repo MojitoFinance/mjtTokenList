@@ -152,5 +152,27 @@
     "status": "active",
     "address": "0x5d78bf8f79a66e43f5932c1ae0b8fa6563f97f74",
     "description": "Connect users with KCC through different blockchains "
+  },
+  {
+    "name": "Conflux",
+    "website": "https://confluxnetwork.org/",
+    "explorer": "https://explorer.kcc.io/token/0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+    "type": "KRC20",
+    "symbol": "CFX",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+    "description": "Conflux token"
+  },
+  {
+    "name": "Swappi",
+    "website": "https://swappi.io/",
+    "explorer": "https://explorer.kcc.io/token/0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+    "type": "KRC20",
+    "symbol": "PPI",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+    "description": "PPI is a native token of Swappi"
   }
 ]
