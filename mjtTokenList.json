@@ -174,5 +174,16 @@
     "status": "active",
     "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
     "description": "PPI is a native token of Swappi"
+  },
+  {
+    "name": "Openleverage",
+    "website": "https://openleverage.finance/",
+    "explorer": "https://explorer.kcc.io/token/0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4",
+    "type": "KRC20",
+    "symbol": "OLE",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4",
+    "description": "OLE is the native token that enables shared community ownership and protocol usage incentives."
   }
 ]
