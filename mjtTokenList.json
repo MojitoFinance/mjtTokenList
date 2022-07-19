@@ -185,5 +185,16 @@
     "status": "active",
     "address": "0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4",
     "description": "OLE is the native token that enables shared community ownership and protocol usage incentives."
-  }
+  },
+  {
+    "name": "IdleStone age Token",
+    "website": "https://www.idlestoneage.com",
+    "explorer": "https://explorer.kcc.io/en/token/0x9741db0023a3722dffe7808b032e3ecb3e7773bc",
+    "type": "KRC20",
+    "symbol": "Shell",
+    "decimals": 18,
+    "status": "active",
+    "address": "0x9741db0023a3722dffe7808b032e3ecb3e7773bc",
+    "description": "SHELL is a token used as a medium of exchange",
+    }
 ]
