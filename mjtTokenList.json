@@ -196,5 +196,16 @@
     "status": "active",
     "address": "0x9741db0023a3722dffe7808b032e3ecb3e7773bc",
     "description": "SHELL is a token used as a medium of exchange",
-    }
+  },
+  {
+    "name": "O3 Swap Token",
+    "website": "https://www.o3swap.com",
+    "explorer": "https://explorer.kcc.io/en/token/0xee9801669c6138e84bd50deb500827b776777d28",
+    "type": "KRC20",
+    "symbol": "O3",
+    "decimals": 18,
+    "status": "active",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+    "description": "O3 Swap Token (O3) is an application token issued by O3 Swap."
+  }
 ]
