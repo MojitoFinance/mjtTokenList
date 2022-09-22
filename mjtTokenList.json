@@ -211,7 +211,7 @@
   {
     "name": "The Recharge",
     "website": "https://therecharge.io",
-    "explorer": "https://explorer.kcc.io/en/token/0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30",
+    "explorer": "https://scan.kcc.io/token/0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
     "type": "KRC20",
     "symbol": "RCG",
     "decimals": 18,
